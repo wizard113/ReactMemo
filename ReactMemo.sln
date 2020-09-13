@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactMemo", "ReactMemo\ReactMemo.csproj", "{B770D5A7-1C6B-4BA6-AB6A-9BA28683D000}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B770D5A7-1C6B-4BA6-AB6A-9BA28683D000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B770D5A7-1C6B-4BA6-AB6A-9BA28683D000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B770D5A7-1C6B-4BA6-AB6A-9BA28683D000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B770D5A7-1C6B-4BA6-AB6A-9BA28683D000}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79C226BE-55E5-490B-AE63-9F084DFAD550}
+	EndGlobalSection
+EndGlobal
